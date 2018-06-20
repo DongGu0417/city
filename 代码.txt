@@ -6,3 +6,4 @@ user2 add add
 user1 add
 user1 add add
 >>>>>>> dfe50cbe83fd72c287ffb8f869ed0f1b2c431df8
+user2 add
