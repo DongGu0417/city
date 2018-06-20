@@ -6,4 +6,8 @@ user2 add add
 user1 add
 user1 add add
 >>>>>>> dfe50cbe83fd72c287ffb8f869ed0f1b2c431df8
+<<<<<<< HEAD
 user1 add
+=======
+user2 add
+>>>>>>> 6dcf42ce065ce56e301ee000c6e51df9116a08d9
